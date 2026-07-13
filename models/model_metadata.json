@@ -1,0 +1,19 @@
+{
+  "target": "status",
+  "text_feature": "clean_text",
+  "classes": [
+    "Anxiety",
+    "Bipolar",
+    "Depression",
+    "Normal",
+    "Personality disorder",
+    "Stress",
+    "Suicidal"
+  ],
+  "split_strategy": "stratified 70/15/15",
+  "training_rows": 3640,
+  "validation_rows": 780,
+  "test_rows": 780,
+  "random_seed": 42,
+  "responsible_use": "Educational research and portfolio demonstration only; not diagnostic or crisis triage."
+}

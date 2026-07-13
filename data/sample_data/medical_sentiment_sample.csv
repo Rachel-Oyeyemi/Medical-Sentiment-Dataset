@@ -1,0 +1,43 @@
+statement,status
+"I feel calm and able to manage my normal routine",Normal
+"Today was ordinary and I enjoyed talking with friends",Normal
+"My mood feels balanced and I can focus on my work",Normal
+"I slept well and have enough energy for the day",Normal
+"I feel present and interested in my usual activities",Normal
+"Things have been manageable and steady this week",Normal
+"I feel low and disconnected from things I used to enjoy",Depression
+"Most days feel heavy and I have very little motivation",Depression
+"I have been withdrawing from people and feeling empty",Depression
+"It is difficult to get out of bed or begin simple tasks",Depression
+"I feel hopeless and tired even after resting",Depression
+"My interest and energy have been low for several weeks",Depression
+"My thoughts keep racing and I cannot stop worrying",Anxiety
+"I feel panicked and my heart pounds without a clear reason",Anxiety
+"I keep expecting something bad to happen",Anxiety
+"Worry is making it difficult to sleep and concentrate",Anxiety
+"I cannot relax because small problems feel dangerous",Anxiety
+"I feel tense and nervous in ordinary situations",Anxiety
+"Deadlines and responsibilities are piling up around me",Stress
+"I feel overloaded by work and family demands",Stress
+"There is too much pressure and not enough time",Stress
+"I am exhausted from trying to keep up with everything",Stress
+"My workload is intense and I need a break",Stress
+"I feel stretched thin by several responsibilities",Stress
+"I have periods of very high energy and little sleep followed by crashes",Bipolar
+"My mood shifts from unusually energized to deeply low",Bipolar
+"I become impulsive and intensely confident before suddenly slowing down",Bipolar
+"Some days I talk quickly and start many plans then lose all energy",Bipolar
+"My sleep and activity change sharply with my mood",Bipolar
+"I experience strong changes between energetic and low periods",Bipolar
+"I fear people will leave and my relationships become very intense",Personality disorder
+"My sense of who I am changes depending on who I am with",Personality disorder
+"Small signs of rejection trigger overwhelming emotions",Personality disorder
+"I switch between idealizing people and feeling betrayed by them",Personality disorder
+"My emotions and relationships feel unstable and hard to control",Personality disorder
+"Fear of abandonment affects how I react in relationships",Personality disorder
+"I do not want to be here anymore and I feel unsafe with myself",Suicidal
+"I keep thinking about ending my life",Suicidal
+"I wish I would not wake up and I cannot see another way",Suicidal
+"I am afraid I may hurt myself if I stay alone",Suicidal
+"I feel like I cannot keep going",Suicidal
+"Thoughts of harming myself have become difficult to ignore",Suicidal
