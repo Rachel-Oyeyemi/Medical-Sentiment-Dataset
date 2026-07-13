@@ -1,0 +1,15 @@
+model,split,class,precision,recall,f1-score,support
+TF-IDF + Logistic Regression,test,Anxiety,0.7567567568,0.9032258065,0.8235294118,62
+TF-IDF + Logistic Regression,test,Bipolar,0.6212121212,0.82,0.7068965517,50
+TF-IDF + Logistic Regression,test,Depression,0.9227053140,0.8883720930,0.9052132701,215
+TF-IDF + Logistic Regression,test,Normal,0.9315068493,0.9026548673,0.9168539326,226
+TF-IDF + Logistic Regression,test,Personality disorder,0.8,0.5925925926,0.6808510638,27
+TF-IDF + Logistic Regression,test,Stress,0.7954545455,0.7608695652,0.7777777778,46
+TF-IDF + Logistic Regression,test,Suicidal,0.9133333333,0.8896103896,0.9013157895,154
+TF-IDF + Calibrated Linear SVM,test,Anxiety,0.9032258065,0.9032258065,0.9032258065,62
+TF-IDF + Calibrated Linear SVM,test,Bipolar,0.9130434783,0.84,0.875,50
+TF-IDF + Calibrated Linear SVM,test,Depression,0.9327354260,0.9674418605,0.9497716895,215
+TF-IDF + Calibrated Linear SVM,test,Normal,0.9288702929,0.9823008850,0.9548387097,226
+TF-IDF + Calibrated Linear SVM,test,Personality disorder,1.0,0.5925925926,0.7441860465,27
+TF-IDF + Calibrated Linear SVM,test,Stress,0.95,0.8260869565,0.8837209302,46
+TF-IDF + Calibrated Linear SVM,test,Suicidal,0.9415584416,0.9415584416,0.9415584416,154
