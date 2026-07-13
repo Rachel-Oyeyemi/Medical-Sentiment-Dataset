@@ -1,0 +1,21 @@
+{
+  "input_rows": 5229,
+  "input_columns": 2,
+  "missing_statement": 0,
+  "missing_status": 0,
+  "empty_after_cleaning": 0,
+  "normalized_duplicate_rows_removed": 23,
+  "conflicting_label_texts": 6,
+  "output_rows": 5200,
+  "labels": {
+    "Normal": 1507,
+    "Depression": 1432,
+    "Suicidal": 1028,
+    "Anxiety": 411,
+    "Bipolar": 336,
+    "Stress": 311,
+    "Personality disorder": 175
+  },
+  "text_length_iqr_upper": 180.0,
+  "long_text_outliers": 28
+}
